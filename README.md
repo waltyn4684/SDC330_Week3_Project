@@ -11,3 +11,6 @@ Features:
 The program runs in the terminal and shows both object behavior and database functionality.
 
 GitHub tracks the full development process across multiple project phases.
+
+Video Demo:
+https://youtu.be/W8jiEIvuetU
